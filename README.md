@@ -1,5 +1,5 @@
 # CounterStrikeAimbot
-This project is based on the game Counter Strike: Condition Zero. It creates an aimbot which can detect for a bot in the game and can aim on the bot.
+This project is based on the game Counter Strike: Condition Zero. It creates an aimbot which can detect for an enemy in the game and can aim on the enemy.
 
 The project is based on the specifications of my laptop and the variables may change depending on the window size of the laptop and the version of the game. You can try redefining x and y for accurate results.
 
